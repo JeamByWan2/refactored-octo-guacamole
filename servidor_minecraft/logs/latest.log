@@ -1,0 +1,1229 @@
+[00:01:02] [Server thread/INFO]: [Ball Stickers] Metagross (Slot 3) sent out
+[00:01:06] [Server thread/WARN]: Entity PokemonEntity['Metagross'/88060, l='ServerLevel[world]', x=-259.77, y=64.00, z=-166.67, removed=DISCARDED] wasn't found in section class_4076{x=-17, y=4, z=-11} (destroying due to DISCARDED)
+[00:03:35] [Server thread/INFO]: MrSGR22 has made the advancement [Life Finds a Way]
+[00:03:40] [Server thread/INFO]: Opened Remote PC for player: MrSGR22
+[00:04:48] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 1) sent out
+[00:05:02] [Server thread/INFO]: [Ball Stickers] Gengar (Slot 2) sent out
+[00:05:02] [Server thread/WARN]: Entity PokemonEntity['Greninja'/88795, l='ServerLevel[world]', x=-257.25, y=58.00, z=-187.86, removed=DISCARDED] wasn't found in section class_4076{x=-17, y=3, z=-12} (destroying due to DISCARDED)
+[00:05:12] [Server thread/WARN]: Entity PokemonEntity['Gengar'/88833, l='ServerLevel[world]', x=-252.94, y=58.00, z=-187.65, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-12} (destroying due to DISCARDED)
+[00:05:13] [Server thread/INFO]: [Ball Stickers] Garchomp (Slot 4) sent out
+[00:05:20] [Server thread/INFO]: [Ball Stickers] Lucario (Slot 6) sent out
+[00:05:34] [Server thread/WARN]: Entity PokemonEntity['Lucario'/88904, l='ServerLevel[world]', x=-260.18, y=58.00, z=-192.95, removed=DISCARDED] wasn't found in section class_4076{x=-17, y=3, z=-13} (destroying due to DISCARDED)
+[00:05:35] [Server thread/WARN]: Entity PokemonEntity['Garchomp'/88875, l='ServerLevel[world]', x=-256.20, y=58.00, z=-188.03, removed=DISCARDED] wasn't found in section class_4076{x=-17, y=3, z=-12} (destroying due to DISCARDED)
+[00:08:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:08:51] [Server thread/INFO]: rt<--[HERE]
+[00:11:00] [Server thread/INFO]: Maximum spawn attempts reached. Skipping this alpha spawn
+[00:15:48] [Server thread/INFO]: Opened Remote PC for player: MrSGR22
+[00:16:53] [Server thread/INFO]: [Ball Stickers] Garchomp (Slot 4) sent out
+[00:16:56] [Server thread/WARN]: Entity PokemonEntity['Garchomp'/90832, l='ServerLevel[world]', x=-250.73, y=69.00, z=-181.44, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=4, z=-12} (destroying due to DISCARDED)
+[00:16:58] [Server thread/INFO]: Opened Remote PC for player: MrSGR22
+[00:17:08] [Server thread/INFO]: [Ball Stickers] Tyrunt (Slot 1) sent out
+[00:17:11] [Server thread/INFO]: [Ball Stickers] Tirtouga (Slot 2) sent out
+[00:17:25] [Server thread/WARN]: Entity PokemonEntity['Tirtouga'/90863, l='ServerLevel[world]', x=-248.31, y=65.00, z=-186.73, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=4, z=-12} (destroying due to DISCARDED)
+[00:17:26] [Server thread/INFO]: Opened Remote PC for player: MrSGR22
+[00:17:26] [Server thread/WARN]: Entity PokemonEntity['Tyrunt'/90853, l='ServerLevel[world]', x=-249.83, y=65.00, z=-183.86, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=4, z=-12} (destroying due to DISCARDED)
+[00:17:48] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 1) sent out
+[00:17:54] [Server thread/WARN]: Entity PokemonEntity['Greninja'/90963, l='ServerLevel[world]', x=-255.94, y=58.00, z=-188.46, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-12} (destroying due to DISCARDED)
+[00:18:21] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 1) sent out
+[00:18:24] [Server thread/WARN]: Entity PokemonEntity['Greninja'/91070, l='ServerLevel[world]', x=-256.23, y=58.00, z=-186.57, removed=DISCARDED] wasn't found in section class_4076{x=-17, y=3, z=-12} (destroying due to DISCARDED)
+[00:18:52] [Server thread/INFO]: [Ball Stickers] Garchomp (Slot 4) sent out
+[00:18:57] [Server thread/WARN]: Entity PokemonEntity['Garchomp'/91136, l='ServerLevel[world]', x=-254.50, y=58.50, z=-186.50, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-12} (destroying due to DISCARDED)
+[00:19:14] [Server thread/INFO]: Opened Remote PC for player: MrSGR22
+[00:19:19] [Server thread/INFO]: [Ball Stickers] Excadrill (Slot 5) sent out
+[00:19:23] [Server thread/INFO]: Opened Remote PC for player: MrSGR22
+[00:19:24] [Server thread/WARN]: Entity PokemonEntity['Excadrill'/91379, l='ServerLevel[world]', x=-254.26, y=58.06, z=-188.93, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-12} (destroying due to DISCARDED)
+[00:19:32] [Server thread/INFO]: [Ball Stickers] Goodra (Slot 5) sent out
+[00:19:37] [Server thread/WARN]: Entity PokemonEntity['Goodra'/91418, l='ServerLevel[world]', x=-254.50, y=58.00, z=-187.50, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-12} (destroying due to DISCARDED)
+[00:19:51] [Server thread/INFO]: [Ball Stickers] Lucario (Slot 6) sent out
+[00:20:05] [Server thread/WARN]: Entity PokemonEntity['Lucario'/91516, l='ServerLevel[world]', x=-255.31, y=58.00, z=-186.59, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-12} (destroying due to DISCARDED)
+[00:20:10] [Server thread/INFO]: <MrSGR22> estoy listo para sabrina
+[00:20:19] [Server thread/INFO]: <JeamByOne> xaero-waypoint:Sabrina [W]:☰:2011:90:726:15:false:0:Internal-overworld-waypoints
+[00:20:59] [Server thread/INFO]: <MrSGR22> la rata noruega andaba haciendo eso en el cap
+[00:21:02] [Server thread/INFO]: <JeamByOne> q
+[00:21:05] [Server thread/INFO]: <JeamByOne> cual cap
+[00:21:10] [Server thread/INFO]: <JeamByOne> hay nuevos?
+[00:21:10] [Server thread/INFO]: <MrSGR22> el de hoy
+[00:21:12] [Server thread/INFO]: <JeamByOne> q
+[00:21:15] [Server thread/INFO]: <JeamByOne> no lo he visto
+[00:21:23] [Server thread/INFO]: <MrSGR22> lo subio en la mañana
+[00:21:42] [Server thread/INFO]: <JeamByOne> ahh cierto fue el strim que yo no vi y le dije a ud que no me spoileara
+[00:21:47] [Server thread/INFO]: <JeamByOne> actualizo el chepas?
+[00:21:59] [Server thread/INFO]: <MrSGR22> sí
+[00:22:12] [Server thread/INFO]: <MrSGR22> se volvio millonario
+[00:22:44] [Server thread/INFO]: <JeamByOne> voy a ir por un larvesta
+[00:22:52] [Server thread/INFO]: <MrSGR22> como él
+[00:23:20] [Server thread/INFO]: <JeamByOne> pero el chepas como le sacaba el polvo
+[00:23:23] [Server thread/INFO]: <JeamByOne> con el pincel?
+[00:24:07] [Server thread/INFO]: <MrSGR22> si
+[00:24:11] [Server thread/INFO]: <MrSGR22> al volcarona
+[00:24:34] [Server thread/INFO]: <JeamByOne> asi no renta
+[00:24:36] [Server thread/INFO]: <MrSGR22> nosotros no tenemos el atrapasueño?
+[00:24:42] [Server thread/INFO]: <JeamByOne> el larvesta se puede meter en la granja
+[00:24:49] [Server thread/INFO]: <MrSGR22> es que no me sale ni buscandolo
+[00:24:50] [Server thread/INFO]: <JeamByOne> y el solito va soltando el polvo
+[00:25:21] [Server thread/INFO]: <JeamByOne> es que no se traduce
+[00:25:29] [Server thread/INFO]: <JeamByOne> se llama nightmare weaver
+[00:25:50] [Server thread/INFO]: <MrSGR22> es que el chepas si le sale traducido xd
+[00:26:00] [Server thread/INFO]: <JeamByOne> ah
+[00:26:11] [Server thread/INFO]: <JeamByOne> tenes el maincra en español de españa?
+[00:26:16] [Server thread/INFO]: <MrSGR22> si
+[00:26:17] [Server thread/INFO]: <JeamByOne> creo que solo asi esta traducido
+[00:26:56] [Server thread/INFO]: <MrSGR22> ya está su pajaro pelon
+[00:27:41] [Server thread/INFO]: Opened Remote PC for player: MrSGR22
+[00:27:50] [Server thread/INFO]: Opened Remote PC for player: MrSGR22
+[00:27:59] [Server thread/INFO]: <MrSGR22> AURA
+[00:29:32] [Server thread/INFO]: <JeamByOne> quiere ir?
+[00:29:43] [Server thread/INFO]: <MrSGR22> suave para hacerme armadura
+[00:29:43] [Server thread/INFO]: <JeamByOne> espere para hacerme un escudo
+[00:29:46] [Server thread/INFO]: <JeamByOne> XDD
+[00:29:49] [Server thread/INFO]: <MrSGR22> timing
+[00:29:51] [Server thread/INFO]: <JeamByOne> que hablamos al mismo tiempo
+[00:29:55] [Server thread/INFO]: [Ball Stickers] Amaura (Slot 1) sent out
+[00:29:57] [Server thread/INFO]: <JeamByOne> somos hermanos perdidos
+[00:29:59] [Server thread/WARN]: Entity PokemonEntity['Amaura'/93447, l='ServerLevel[world]', x=-254.49, y=58.00, z=-198.59, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-13} (destroying due to DISCARDED)
+[00:29:59] [Server thread/INFO]: <MrSGR22> vea
+[00:30:00] [Server thread/INFO]: [Ball Stickers] Amaura (Slot 1) sent out
+[00:30:05] [Server thread/INFO]: <JeamByOne> en el hospital nos separaron
+[00:30:17] [Server thread/INFO]: <MrSGR22> yo siempre lo supe
+[00:30:19] [Server thread/WARN]: Entity PokemonEntity['Amaura'/93465, l='ServerLevel[world]', x=-253.50, y=58.00, z=-198.50, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-13} (destroying due to DISCARDED)
+[00:31:31] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[00:32:21] [Server thread/INFO]: Opened Remote PC for player: MrSGR22
+[00:32:49] [Server thread/WARN]: MrSGR22 moved too quickly! -5.639849607944456,0.5,8.41222588514168
+[00:32:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2606ms or 52 ticks behind
+[00:35:24] [Server thread/INFO]: <JeamByOne> toy ready
+[00:35:36] [Server thread/INFO]: <JeamByOne> suave
+[00:36:13] [Server thread/INFO]: <JeamByOne> :Shooting:
+[00:36:22] [Server thread/INFO]: No return portal found
+[00:36:22] [Server thread/INFO]: JeamByOne has made the advancement [We Need to Go Deeper]
+[00:36:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[00:36:25] [Server thread/INFO]: No return portal found
+[00:36:25] [Server thread/INFO]: MrSGR22 has made the advancement [We Need to Go Deeper]
+[00:36:38] [Server thread/INFO]: <JeamByOne> el mismo puto lugar
+[00:36:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4157ms or 83 ticks behind
+[00:36:51] [Server thread/INFO]: [Ball Stickers] Flygon (Slot 5) sent out
+[00:36:59] [Server thread/INFO]: [Ball Stickers] Gengar (Slot 2) sent out
+[00:36:59] [Server thread/INFO]: <JeamByOne> subase
+[00:37:00] [Server thread/INFO]: <JeamByOne> es de dos
+[00:37:01] [Server thread/INFO]: <JeamByOne> creo
+[00:37:03] [Server thread/WARN]: Entity PokemonEntity['Gengar'/94855, l='ServerLevel[world]', x=-19.43, y=33.00, z=-8.50, removed=DISCARDED] wasn't found in section class_4076{x=-2, y=2, z=-1} (destroying due to DISCARDED)
+[00:37:07] [Server thread/INFO]: <JeamByOne> no lo deja_
+[00:37:13] [Server thread/WARN]: JeamByOne moved wrongly!
+[00:37:16] [Server thread/WARN]: Entity PokemonEntity['Flygon'/94851, l='ServerLevel[world]', x=-18.16, y=33.00, z=-6.16, removed=DISCARDED] wasn't found in section class_4076{x=-2, y=2, z=-1} (destroying due to DISCARDED)
+[00:37:17] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[00:37:24] [Server thread/INFO]: [Ball Stickers] Salamence (Slot 5) sent out
+[00:37:44] [Server thread/WARN]: Entity PokemonEntity['Salamence'/94913, l='ServerLevel[world]', x=-16.89, y=33.00, z=-6.13, removed=DISCARDED] wasn't found in section class_4076{x=-2, y=2, z=-1} (destroying due to DISCARDED)
+[00:37:45] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[00:37:51] [Server thread/INFO]: [Ball Stickers] Dragonite (Slot 5) sent out
+[00:38:04] [Server thread/INFO]: <JeamByOne> cinema
+[00:38:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[00:38:26] [Server thread/INFO]: <JeamByOne> q bioma mas feo
+[00:39:20] [Server thread/WARN]: JeamByOne moved wrongly!
+[00:39:24] [Server thread/WARN]: MrSGR22 moved wrongly!
+[00:39:24] [Server thread/WARN]: Entity PokemonEntity['Dragonite'/94963, l='ServerLevel[world]', x=194.38, y=84.00, z=281.21, removed=DISCARDED] wasn't found in section class_4076{x=12, y=5, z=17} (destroying due to DISCARDED)
+[00:39:31] [Server thread/INFO]: [Ball Stickers] Gengar (Slot 2) sent out
+[00:39:51] [Server thread/INFO]: <JeamByOne> vea eso
+[00:39:54] [Server thread/INFO]: <JeamByOne> wtf
+[00:40:01] [Server thread/INFO]: <MrSGR22> un mega portal
+[00:40:08] [Server thread/WARN]: Entity PokemonEntity['Gengar'/95775, l='ServerLevel[world]', x=210.20, y=82.00, z=290.20, removed=DISCARDED] wasn't found in section class_4076{x=13, y=5, z=18} (destroying due to DISCARDED)
+[00:40:19] [Server thread/INFO]: JeamByOne has completed the challenge [Return to Sender]
+[00:40:24] [Server thread/INFO]: <JeamByOne> EZ
+[00:40:34] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_1590['Zombified Piglin'/95980, l='ServerLevel[world]', x=175.50, y=87.00, z=331.50]'
+[00:41:45] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_1590['Zombified Piglin'/96194, l='ServerLevel[world]', x=284.50, y=81.00, z=321.50]'
+[00:41:47] [Server thread/INFO]: [Ball Stickers] Gengar (Slot 2) sent out
+[00:42:16] [Server thread/WARN]: Entity PokemonEntity['Gengar'/96204, l='ServerLevel[world]', x=237.78, y=33.00, z=294.91, removed=DISCARDED] wasn't found in section class_4076{x=14, y=2, z=18} (destroying due to DISCARDED)
+[00:42:21] [Server thread/INFO]: <JeamByOne> es como una ancient city pero del nether
+[00:42:22] [Server thread/INFO]: <JeamByOne> que guapo
+[00:42:34] [Server thread/INFO]: <MrSGR22> meme de davo
+[00:42:48] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_1590['Zombified Piglin'/96388, l='ServerLevel[world]', x=254.50, y=85.00, z=205.50]'
+[00:44:00] [Server thread/INFO]: [Ball Stickers] Gengar (Slot 2) sent out
+[00:44:33] [Server thread/INFO]: [BattlePositions][POKEMON] Battle cc8e2cf7-28ee-4a36-8a96-7b71dcf1023b pre-start teleport p1a e1d51a74-96f0-463c-8400-af78f0d94b33 (Gengar) (255.99, 34.00, 333.99) -> (260.50, 32.00, 338.50) (success=true)
+[00:44:36] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_4836['Piglin'/96790, l='ServerLevel[world]', x=164.50, y=67.00, z=406.50]'
+[00:44:50] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_1590['Zombified Piglin'/96836, l='ServerLevel[world]', x=379.50, y=37.00, z=155.50]'
+[00:44:50] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_1590['Zombified Piglin'/96836, l='ServerLevel[world]', x=379.50, y=37.00, z=155.50]'
+[00:45:12] [Server thread/INFO]: JeamByOne has completed the challenge [Serious Dedication]
+[00:45:23] [Server thread/INFO]: <MrSGR22> xdd
+[00:45:32] [Server thread/INFO]: <JeamByOne> hay una bastion atras tenga cuidado
+[00:45:40] [Server thread/INFO]: <MrSGR22> tengo un carbink
+[00:45:44] [Server thread/INFO]: <MrSGR22> diamantes
+[00:45:54] [Server thread/INFO]: <JeamByOne> en la casa ya hay y reproduciendose
+[00:46:02] [Server thread/INFO]: <MrSGR22> que
+[00:46:04] [Server thread/INFO]: <MrSGR22> donde
+[00:46:09] [Server thread/INFO]: <JeamByOne> en la cosa de cristal
+[00:46:12] [Server thread/INFO]: <JeamByOne> donde criamos pseudos
+[00:46:14] [Server thread/INFO]: <MrSGR22> no he visto
+[00:46:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5264ms or 105 ticks behind
+[00:46:28] [Server thread/WARN]: Entity PokemonEntity['Gengar'/96643, l='ServerLevel[world]', x=249.76, y=32.00, z=347.38, removed=DISCARDED] wasn't found in section class_4076{x=15, y=2, z=21} (destroying due to DISCARDED)
+[00:46:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:46:31] [Server thread/INFO]: thth<--[HERE]
+[00:46:47] [Server thread/INFO]: [Ball Stickers] Gengar (Slot 2) sent out
+[00:46:55] [Server thread/INFO]: <JeamByOne> voy a intentar entrar a la bastion tenga cuidaod
+[00:47:06] [Server thread/WARN]: Entity PokemonEntity['Gengar'/97541, l='ServerLevel[world]', x=244.35, y=32.00, z=345.78, removed=DISCARDED] wasn't found in section class_4076{x=15, y=2, z=21} (destroying due to DISCARDED)
+[00:47:30] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_4836['Piglin'/97700, l='ServerLevel[world]', x=318.50, y=45.00, z=443.50]'
+[00:48:08] [Server thread/INFO]: [Ball Stickers] Gengar (Slot 2) sent out
+[00:48:30] [Server thread/INFO]: MrSGR22 has made the advancement [Those Were the Days]
+[00:48:40] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_1590['Zombified Piglin'/97914, l='ServerLevel[world]', x=316.50, y=75.00, z=261.50]'
+[00:48:41] [Server thread/WARN]: Entity PokemonEntity['Gengar'/97836, l='ServerLevel[world]', x=332.02, y=38.00, z=289.99, removed=DISCARDED] wasn't found in section class_4076{x=20, y=2, z=18} (destroying due to DISCARDED)
+[00:48:45] [Server thread/INFO]: JeamByOne has made the advancement [Those Were the Days]
+[00:48:57] [Server thread/INFO]: MrSGR22 has made the advancement [War Pigs]
+[00:49:33] [Server thread/INFO]: MrSGR22 was slain by Piglin Brute
+[00:49:33] [Server thread/INFO]: [MrSGR22: [LD] You died at 324, 34, 325, in minecraft:the_nether.]
+[00:49:41] [Server thread/INFO]: [Ball Stickers] Gengar (Slot 2) sent out
+[00:49:44] [Server thread/WARN]: Entity PokemonEntity['Gengar'/98258, l='ServerLevel[world]', x=-248.50, y=72.00, z=-195.50, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=4, z=-13} (destroying due to DISCARDED)
+[00:50:02] [Server thread/INFO]: [JeamByOne: Teleported MrSGR22 to JeamByOne]
+[00:50:42] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 1) sent out
+[00:50:44] [Server thread/INFO]: [Ball Stickers] Metagross (Slot 3) sent out
+[00:50:45] [Server thread/INFO]: [Ball Stickers] Garchomp (Slot 4) sent out
+[00:50:46] [Server thread/INFO]: [Ball Stickers] Goodra (Slot 5) sent out
+[00:50:47] [Server thread/INFO]: [Ball Stickers] Lucario (Slot 6) sent out
+[00:51:02] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_4836['Piglin'/98478, l='ServerLevel[world]', x=385.50, y=39.00, z=392.50]'
+[00:51:04] [Server thread/WARN]: Entity PokemonEntity['Lucario'/98448, l='ServerLevel[world]', x=324.35, y=34.00, z=322.63, removed=DISCARDED] wasn't found in section class_4076{x=20, y=2, z=20} (destroying due to DISCARDED)
+[00:51:05] [Server thread/INFO]: [Ball Stickers] Lucario (Slot 6) sent out
+[00:51:09] [Server thread/WARN]: Entity PokemonEntity['Greninja'/98438, l='ServerLevel[world]', x=324.32, y=33.00, z=323.86, removed=DISCARDED] wasn't found in section class_4076{x=20, y=2, z=20} (destroying due to DISCARDED)
+[00:51:10] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 1) sent out
+[00:51:16] [Server thread/INFO]: Maximum spawn attempts reached. Skipping this alpha spawn
+[00:51:18] [Server thread/WARN]: Entity PokemonEntity['Metagross'/98444, l='ServerLevel[world]', x=326.52, y=39.88, z=324.98, removed=DISCARDED] wasn't found in section class_4076{x=20, y=2, z=20} (destroying due to DISCARDED)
+[00:51:20] [Server thread/INFO]: [Ball Stickers] Metagross (Slot 3) sent out
+[00:51:24] [Server thread/INFO]: JeamByOne has made the advancement [War Pigs]
+[00:51:38] [Server thread/WARN]: Entity PokemonEntity['Greninja'/98498, l='ServerLevel[world]', x=321.59, y=31.88, z=322.45, removed=KILLED] wasn't found in section class_4076{x=20, y=1, z=20} (destroying due to DISCARDED)
+[00:51:41] [Server thread/INFO]: MrSGR22 was slain by Piglin Brute
+[00:51:41] [Server thread/INFO]: [MrSGR22: [LD] You died at 322, 34, 329, in minecraft:the_nether.]
+[00:51:49] [Server thread/INFO]: [JeamByOne: Teleported MrSGR22 to JeamByOne]
+[00:52:01] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_1590['Zombified Piglin'/98770, l='ServerLevel[world]', x=282.50, y=82.00, z=293.50]'
+[00:52:08] [Server thread/INFO]: <JeamByOne> guieme a su loot
+[00:52:17] [Server thread/INFO]: <JeamByOne> SHINY
+[00:52:24] [Server thread/INFO]: <JeamByOne> charcadet
+[00:52:26] [Server thread/INFO]: <JeamByOne> lo quiero
+[00:52:44] [Server thread/INFO]: MrSGR22 was slain by Piglin Brute
+[00:52:44] [Server thread/INFO]: [MrSGR22: [LD] You died at 330, 34, 329, in minecraft:the_nether.]
+[00:52:50] [Server thread/INFO]: [Ball Stickers] Krookodile (Slot 2) sent out
+[00:52:53] [Server thread/INFO]: [JeamByOne: Teleported MrSGR22 to JeamByOne]
+[00:52:57] [Server thread/INFO]: JeamByOne has made the advancement [Amateur Archaeologist]
+[00:53:17] [Server thread/INFO]: JeamByOne has made the advancement [Hidden in the Depths]
+[00:53:51] [Server thread/INFO]: <JeamByOne> venga
+[00:53:54] [Server thread/INFO]: <JeamByOne> este conmigo
+[00:53:59] [Server thread/INFO]: [Ball Stickers] Metagross (Slot 3) sent out
+[00:54:15] [Server thread/WARN]: Could not equip item '1 ball_stickers:affection_seal' on spawned entity 'class_1590['Zombified Piglin'/99260, l='ServerLevel[world]', x=218.50, y=78.00, z=353.50]'
+[00:54:16] [Server thread/WARN]: Entity PokemonEntity['Metagross'/99219, l='ServerLevel[world]', x=321.50, y=41.00, z=317.50, removed=DISCARDED] wasn't found in section class_4076{x=20, y=2, z=19} (destroying due to DISCARDED)
+[00:54:37] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_1590['Zombified Piglin'/99323, l='ServerLevel[world]', x=337.50, y=78.00, z=375.50]'
+[00:55:05] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_4836['Piglin'/99359, l='ServerLevel[world]', x=326.50, y=85.00, z=413.50]'
+[00:55:39] [Server thread/INFO]: [Ball Stickers] Zoroark (Slot 1) sent out
+[00:55:45] [Server thread/INFO]: Opened Remote PC for player: MrSGR22
+[00:55:53] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_4836['Piglin'/99456, l='ServerLevel[world]', x=269.50, y=53.00, z=407.50]'
+[00:56:03] [Server thread/INFO]: <MrSGR22> el shiny de charcadet no cambia nada
+[00:56:04] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_1590['Zombified Piglin'/99477, l='ServerLevel[world]', x=375.50, y=34.00, z=212.50]'
+[00:56:09] [Server thread/INFO]: <MrSGR22> solo el color de ojos xd
+[00:56:12] [Server thread/INFO]: <JeamByOne> xdd
+[00:56:20] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_1590['Zombified Piglin'/99509, l='ServerLevel[world]', x=395.50, y=66.00, z=346.50]'
+[00:56:55] [Server thread/WARN]: Could not equip item '1 ball_stickers:affection_seal' on spawned entity 'class_4836['Piglin'/99598, l='ServerLevel[world]', x=375.50, y=86.00, z=442.50]'
+[00:57:01] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 1) sent out
+[00:57:06] [Server thread/WARN]: Entity PokemonEntity['Greninja'/99620, l='ServerLevel[world]', x=326.95, y=39.00, z=330.02, removed=DISCARDED] wasn't found in section class_4076{x=20, y=2, z=20} (destroying due to DISCARDED)
+[00:57:19] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_4836['Piglin'/99652, l='ServerLevel[world]', x=346.50, y=65.00, z=413.50]'
+[00:57:25] [Server thread/INFO]: [Ball Stickers] Gengar (Slot 2) sent out
+[00:57:37] [Server thread/WARN]: Entity PokemonEntity['Gengar'/99666, l='ServerLevel[world]', x=331.13, y=45.00, z=329.81, removed=DISCARDED] wasn't found in section class_4076{x=20, y=2, z=20} (destroying due to DISCARDED)
+[00:58:18] [Server thread/INFO]: <MrSGR22> lalalalava
+[00:58:25] [Server thread/INFO]: <MrSGR22> chichichicken
+[00:58:34] [Server thread/INFO]: [Ball Stickers] Gengar (Slot 2) sent out
+[00:58:42] [Server thread/INFO]: <JeamByOne> cuidado
+[00:58:47] [Server thread/INFO]: <JeamByOne> esta es la parte mas dura de la bastion
+[00:58:56] [Server thread/WARN]: Entity PokemonEntity['Gengar'/99833, l='ServerLevel[world]', x=325.42, y=56.00, z=332.87, removed=DISCARDED] wasn't found in section class_4076{x=20, y=3, z=20} (destroying due to DISCARDED)
+[00:59:53] [Server thread/INFO]: <MrSGR22> tengo algo para cuando tenga el porygon
+[01:00:04] [Server thread/INFO]: <JeamByOne> ya tengo los dos items
+[01:00:06] [Server thread/INFO]: <JeamByOne> xd
+[01:00:16] [Server thread/INFO]: [BattlePositions][POKEMON] Battle 4de70575-8df0-4e62-bc20-29474f6c1d15 pre-start teleport p1a 603f1555-3c33-4c35-88b9-e8b3e2c640fc (Zoroark) (305.49, 57.00, 323.12) -> (307.50, 53.00, 326.50) (success=false)
+[01:00:19] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_1590['Zombified Piglin'/100112, l='ServerLevel[world]', x=289.50, y=83.00, z=261.50]'
+[01:00:55] [Server thread/INFO]: JeamByOne was slain by Piglin Brute
+[01:00:55] [Server thread/INFO]: [JeamByOne: [LD] You died at 304, 44, 333, in minecraft:the_nether.]
+[01:00:55] [Server thread/WARN]: Player 'JeamByOne' is not in a battle
+[01:01:02] [Server thread/INFO]: <JeamByOne> que
+[01:01:12] [Server thread/INFO]: <JeamByOne> me mato de un golpe
+[01:01:15] [Server thread/INFO]: <JeamByOne> eso esta bug
+[01:01:18] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[01:01:27] [Server thread/INFO]: MrSGR22 was slain by Piglin Brute
+[01:01:27] [Server thread/INFO]: [MrSGR22: [LD] You died at 309, 50, 329, in minecraft:the_nether.]
+[01:01:35] [Server thread/INFO]: <MrSGR22> de donde
+[01:01:43] [Server thread/INFO]: <MrSGR22> quitó los comando playazo
+[01:02:06] [Server thread/INFO]: No return portal found
+[01:02:08] [Server thread/INFO]: No return portal found
+[01:02:09] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_4836['Piglin'/100784, l='ServerLevel[world]', x=-18.50, y=60.00, z=-105.50]'
+[01:02:09] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_1590['Zombified Piglin'/100819, l='ServerLevel[world]', x=-16.50, y=56.00, z=-67.50]'
+[01:02:14] [Server thread/INFO]: [Ball Stickers] Gengar (Slot 2) sent out
+[01:02:20] [Server thread/WARN]: Entity PokemonEntity['Gengar'/100832, l='ServerLevel[world]', x=-17.63, y=33.00, z=-4.76, removed=DISCARDED] wasn't found in section class_4076{x=-2, y=2, z=-1} (destroying due to DISCARDED)
+[01:02:21] [Server thread/INFO]: [Ball Stickers] Metagross (Slot 3) sent out
+[01:02:30] [Server thread/INFO]: [JeamByOne: Set own game mode to Creative Mode]
+[01:02:35] [Server thread/INFO]: [JeamByOne: Teleported JeamByOne to 304.500000, 43.500000, 333.500000]
+[01:02:37] [Server thread/INFO]: <MrSGR22> cuchau
+[01:02:59] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_1590['Zombified Piglin'/101366, l='ServerLevel[world]', x=152.50, y=80.00, z=108.50]'
+[01:03:34] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_1590['Zombified Piglin'/101528, l='ServerLevel[world]', x=269.50, y=89.00, z=273.50]'
+[01:03:39] [Server thread/WARN]: Entity PokemonEntity['Metagross'/100851, l='ServerLevel[world]', x=331.17, y=45.00, z=331.13, removed=DISCARDED] wasn't found in section class_4076{x=20, y=2, z=20} (destroying due to DISCARDED)
+[01:03:49] [Server thread/INFO]: [Ball Stickers] Gengar (Slot 2) sent out
+[01:04:12] [Server thread/WARN]: Entity PokemonEntity['Gengar'/101554, l='ServerLevel[world]', x=324.32, y=56.00, z=328.37, removed=DISCARDED] wasn't found in section class_4076{x=20, y=3, z=20} (destroying due to DISCARDED)
+[01:04:52] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_4836['Piglin'/101711, l='ServerLevel[world]', x=250.50, y=84.00, z=400.50]'
+[01:04:52] [Server thread/INFO]: <JeamByOne> 2 NOTCHS
+[01:04:57] [Server thread/INFO]: <JeamByOne> :PogO:
+[01:05:53] [Server thread/INFO]: [JeamByOne: Set own game mode to Survival Mode]
+[01:06:06] [Server thread/WARN]: Could not equip item '1 ball_stickers:affection_seal' on spawned entity 'class_1590['Zombified Piglin'/101872, l='ServerLevel[world]', x=285.50, y=77.00, z=261.50]'
+[01:06:37] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_1590['Zombified Piglin'/101958, l='ServerLevel[world]', x=309.50, y=79.00, z=192.50]'
+[01:07:52] [Server thread/INFO]: <MrSGR22> hagamos waterdrop aqui
+[01:08:06] [Server thread/INFO]: <MrSGR22> y luego dormimos
+[01:08:28] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_4836['Piglin'/102219, l='ServerLevel[world]', x=268.50, y=89.00, z=269.50]'
+[01:08:41] [Server thread/INFO]: MrSGR22 was slain by Piglin Brute
+[01:08:41] [Server thread/INFO]: [MrSGR22: [LD] You died at 319, 56, 320, in minecraft:the_nether.]
+[01:08:59] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_1590['Zombified Piglin'/102479, l='ServerLevel[world]', x=278.50, y=82.00, z=314.50]'
+[01:09:08] [Server thread/INFO]: [JeamByOne: Teleported MrSGR22 to JeamByOne]
+[01:09:40] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_4836['Piglin'/102667, l='ServerLevel[world]', x=351.50, y=76.00, z=424.50]'
+[01:10:12] [Server thread/INFO]: <MrSGR22> ponga los putos comandos que no me puedo teletransportar a mi cadaver
+[01:10:27] [Server thread/INFO]: [JeamByOne: Teleported MrSGR22 to JeamByOne]
+[01:10:29] [Server thread/INFO]: MrSGR22 fell from a high place
+[01:10:29] [Server thread/INFO]: [MrSGR22: [LD] You died at 319, 34, 322, in minecraft:the_nether.]
+[01:10:29] [Server thread/INFO]: [JeamByOne: Teleported MrSGR22 to JeamByOne]
+[01:10:33] [Server thread/INFO]: [JeamByOne: Teleported MrSGR22 to JeamByOne]
+[01:10:39] [Server thread/WARN]: Could not equip item '1 ball_stickers:dirty_seal' on spawned entity 'class_4836['Piglin'/102882, l='ServerLevel[world]', x=376.50, y=38.00, z=363.50]'
+[01:11:37] [Server thread/INFO]: <MrSGR22> se me quemó el resto
+[01:11:41] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_4836['Piglin'/103025, l='ServerLevel[world]', x=403.50, y=98.00, z=396.50]'
+[01:12:07] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_4836['Piglin'/103109, l='ServerLevel[world]', x=353.50, y=70.00, z=424.50]'
+[01:12:19] [Server thread/INFO]: <JeamByOne> f
+[01:12:41] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_1590['Zombified Piglin'/103180, l='ServerLevel[world]', x=202.50, y=97.00, z=309.50]'
+[01:13:59] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_1590['Zombified Piglin'/103359, l='ServerLevel[world]', x=363.50, y=52.00, z=225.50]'
+[01:14:07] [Server thread/INFO]: <JeamByOne> venga aqui hay mas
+[01:14:55] [Server thread/INFO]: [Ball Stickers] Zoroark (Slot 1) sent out
+[01:14:56] [Server thread/WARN]: Entity PokemonEntity['Zoroark'/103486, l='ServerLevel[world]', x=313.63, y=65.00, z=321.88, removed=DISCARDED] wasn't found in section class_4076{x=19, y=4, z=20} (destroying due to DISCARDED)
+[01:14:56] [Server thread/INFO]: [Ball Stickers] Zoroark (Slot 1) sent out
+[01:15:12] [Server thread/INFO]: [Ball Stickers] Gengar (Slot 2) sent out
+[01:15:23] [Server thread/WARN]: Entity PokemonEntity['Gengar'/103526, l='ServerLevel[world]', x=310.96, y=65.00, z=323.73, removed=DISCARDED] wasn't found in section class_4076{x=19, y=4, z=20} (destroying due to DISCARDED)
+[01:15:38] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_1590['Zombified Piglin'/103601, l='ServerLevel[world]', x=214.50, y=91.00, z=323.50]'
+[01:17:17] [Server thread/WARN]: Entity PokemonEntity['Zoroark'/103491, l='ServerLevel[world]', x=307.50, y=31.88, z=338.50, removed=DISCARDED] wasn't found in section class_4076{x=19, y=1, z=21} (destroying due to DISCARDED)
+[01:17:53] [Server thread/INFO]: MrSGR22 has made the advancement [Hidden in the Depths]
+[01:18:07] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_1590['Zombified Piglin'/104068, l='ServerLevel[world]', x=279.50, y=82.00, z=316.50]'
+[01:18:26] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[01:18:53] [Server thread/WARN]: Could not equip item '1 ball_stickers:affection_seal' on spawned entity 'class_1590['Zombified Piglin'/104236, l='ServerLevel[world]', x=203.50, y=93.00, z=357.50]'
+[01:19:04] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_1590['Zombified Piglin'/104277, l='ServerLevel[world]', x=251.50, y=99.00, z=373.50]'
+[01:21:01] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_4836['Piglin'/104651, l='ServerLevel[world]', x=348.50, y=42.00, z=402.50]'
+[01:21:23] [Server thread/INFO]: [Ball Stickers] Salamence (Slot 5) sent out
+[01:21:28] [Server thread/INFO]: <JeamByOne> subase
+[01:21:29] [Server thread/INFO]: <MrSGR22> i need more food
+[01:21:37] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_1590['Zombified Piglin'/104723, l='ServerLevel[world]', x=414.50, y=35.00, z=286.50]'
+[01:21:59] [Server thread/INFO]: <JeamByOne> ya esta subido?
+[01:22:03] [Server thread/INFO]: <MrSGR22> si
+[01:22:06] [Server thread/INFO]: <JeamByOne> esta bug xd
+[01:22:07] [Server thread/INFO]: <JeamByOne> bueno
+[01:22:08] [Server thread/INFO]: <JeamByOne> go
+[01:22:15] [Server thread/INFO]: <MrSGR22> asi lo veia yo a ud
+[01:22:16] [Server thread/WARN]: Could not equip item '1 ball_stickers:dirty_seal' on spawned entity 'class_4836['Piglin'/104874, l='ServerLevel[world]', x=394.50, y=33.00, z=257.50]'
+[01:22:18] [Server thread/INFO]: <MrSGR22> noooooo
+[01:22:24] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_4836['Piglin'/104995, l='ServerLevel[world]', x=440.50, y=51.00, z=420.50]'
+[01:22:28] [Server thread/INFO]: <MrSGR22> esta bug, estoy aqui
+[01:22:33] [Server thread/INFO]: <MrSGR22> vuelva
+[01:22:33] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_1590['Zombified Piglin'/105097, l='ServerLevel[world]', x=570.50, y=96.00, z=387.50]'
+[01:22:44] [Server thread/INFO]: [JeamByOne: Teleported MrSGR22 to JeamByOne]
+[01:22:50] [Server thread/INFO]: <MrSGR22> me pasó lo mismo que al chepas
+[01:22:54] [Server thread/WARN]: Entity PokemonEntity['Salamence'/104706, l='ServerLevel[world]', x=567.14, y=66.00, z=376.71, removed=DISCARDED] wasn't found in section class_4076{x=35, y=4, z=23} (destroying due to DISCARDED)
+[01:22:56] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[01:23:02] [Server thread/INFO]: [Ball Stickers] Dragonite (Slot 5) sent out
+[01:24:12] [Server thread/INFO]: <JeamByOne> el puto dragonite cuesta un webo manejarlo
+[01:24:17] [Server thread/INFO]: <JeamByOne> voy a desactivarme aquello
+[01:24:20] [Server thread/INFO]: <JeamByOne> del vuelo dificil
+[01:25:14] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_4836['Piglin'/105696, l='ServerLevel[world]', x=578.50, y=40.00, z=319.50]'
+[01:25:43] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_4836['Piglin'/105757, l='ServerLevel[world]', x=549.50, y=63.00, z=487.50]'
+[01:25:52] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_4836['Piglin'/105843, l='ServerLevel[world]', x=597.50, y=89.00, z=436.50]'
+[01:26:17] [Server thread/INFO]: <JeamByOne> q dificil
+[01:26:21] [Server thread/INFO]: <JeamByOne> se descontrola mucho
+[01:26:27] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_4836['Piglin'/105962, l='ServerLevel[world]', x=427.50, y=66.00, z=247.50]'
+[01:26:29] [Server thread/INFO]: <MrSGR22> como yo
+[01:26:37] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_4836['Piglin'/106057, l='ServerLevel[world]', x=403.50, y=34.00, z=362.50]'
+[01:27:05] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_4836['Piglin'/106191, l='ServerLevel[world]', x=456.50, y=61.00, z=246.50]'
+[01:27:06] [Server thread/WARN]: Could not equip item '1 ball_stickers:affection_seal' on spawned entity 'class_1590['Zombified Piglin'/106198, l='ServerLevel[world]', x=505.50, y=85.00, z=243.50]'
+[01:27:07] [Server thread/INFO]: MrSGR22 tried to swim in lava
+[01:27:07] [Server thread/INFO]: [MrSGR22: [LD] You died at 467, 26, 289, in minecraft:the_nether.]
+[01:27:10] [Server thread/INFO]: [JeamByOne: Set own game mode to Creative Mode]
+[01:27:11] [Server thread/INFO]: [JeamByOne: Set own game mode to Survival Mode]
+[01:27:12] [Server thread/INFO]: [JeamByOne: Set own game mode to Creative Mode]
+[01:27:13] [Server thread/INFO]: <MrSGR22> BOBO
+[01:27:15] [Server thread/WARN]: Entity PokemonEntity['Dragonite'/105158, l='ServerLevel[world]', x=467.76, y=24.00, z=289.13, removed=KILLED] wasn't found in section class_4076{x=29, y=1, z=18} (destroying due to DISCARDED)
+[01:27:20] [Server thread/INFO]: [JeamByOne: Set own game mode to Survival Mode]
+[01:27:22] [Server thread/INFO]: [JeamByOne: Set own game mode to Creative Mode]
+[01:27:33] [Server thread/INFO]: <JeamByOne> nah tio
+[01:27:34] [Server thread/INFO]: No return portal found
+[01:27:35] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_1590['Zombified Piglin'/106519, l='ServerLevel[world]', x=0.50, y=50.00, z=-72.50]'
+[01:27:38] [Server thread/INFO]: <JeamByOne> me salve de milagro
+[01:27:42] [Server thread/INFO]: <JeamByOne> que dificil el dragonite
+[01:27:45] [Server thread/WARN]: Could not equip item '1 ball_stickers:affection_seal' on spawned entity 'class_4836['Piglin'/106669, l='ServerLevel[world]', x=468.50, y=70.00, z=233.50]'
+[01:27:50] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_4836['Piglin'/106682, l='ServerLevel[world]', x=531.50, y=88.00, z=229.50]'
+[01:27:51] [Server thread/INFO]: <JeamByOne> perdio todo?
+[01:27:53] [Server thread/INFO]: <JeamByOne> XD
+[01:27:55] [Server thread/INFO]: <JeamByOne> mb
+[01:27:59] [Server thread/INFO]: <MrSGR22> hijo de puta
+[01:28:12] [Server thread/INFO]: <MrSGR22> no vuelvo al nether
+[01:28:13] [Server thread/INFO]: <JeamByOne> no fue mi culpa
+[01:28:18] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_1590['Zombified Piglin'/106781, l='ServerLevel[world]', x=-109.50, y=87.00, z=-75.50]'
+[01:28:20] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_1590['Zombified Piglin'/106787, l='ServerLevel[world]', x=-86.50, y=39.00, z=-95.50]'
+[01:28:26] [Server thread/INFO]: <JeamByOne> el dragonite es imposible de manejar
+[01:28:31] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[01:28:41] [Server thread/INFO]: <JeamByOne> nah tio
+[01:28:44] [Server thread/INFO]: <JeamByOne> que lastima
+[01:28:48] [Server thread/INFO]: <JeamByOne> que tenia importante
+[01:28:55] [Server thread/WARN]: Could not equip item '1 ball_stickers:dirty_seal' on spawned entity 'class_1590['Zombified Piglin'/106929, l='ServerLevel[world]', x=-65.50, y=87.00, z=-99.50]'
+[01:28:56] [Server thread/INFO]: <JeamByOne> digame queno perdio la mochila
+[01:29:02] [Server thread/INFO]: [Ball Stickers] Gengar (Slot 2) sent out
+[01:29:06] [Server thread/WARN]: Entity PokemonEntity['Gengar'/106949, l='ServerLevel[world]', x=-17.28, y=33.00, z=-7.01, removed=DISCARDED] wasn't found in section class_4076{x=-2, y=2, z=-1} (destroying due to DISCARDED)
+[01:29:07] [Server thread/INFO]: <MrSGR22> eso no
+[01:29:29] [Server thread/INFO]: [Ball Stickers] Salamence (Slot 5) sent out
+[01:30:02] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_1590['Zombified Piglin'/107396, l='ServerLevel[world]', x=688.50, y=57.00, z=386.50]'
+[01:30:04] [Server thread/INFO]: <MrSGR22> un stack de ultras, el pico de diamante, las medallas, el level cap, las gafas, la gorra de luffy y las garras
+[01:30:14] [Server thread/INFO]: <MrSGR22> el resto me la pela creo
+[01:30:23] [Server thread/INFO]: [JeamByOne: Made MrSGR22 a server operator]
+[01:30:26] [Server thread/INFO]: <JeamByOne> le di comandos
+[01:30:28] [Server thread/INFO]: <JeamByOne> saquelo
+[01:30:35] [Server thread/WARN]: Could not equip item '1 ball_stickers:dirty_seal' on spawned entity 'class_4836['Piglin'/107542, l='ServerLevel[world]', x=751.50, y=69.00, z=358.50]'
+[01:30:41] [Server thread/INFO]: <JeamByOne> fue muy injusto
+[01:30:48] [Server thread/INFO]: <JeamByOne> yo me salve por la pocion
+[01:30:54] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_4836['Piglin'/107708, l='ServerLevel[world]', x=643.50, y=59.00, z=473.50]'
+[01:30:56] [Server thread/INFO]: <MrSGR22> ni vi como quedamos ahi
+[01:31:16] [Server thread/INFO]: <JeamByOne> por algun motivo no quiso volar mas y se quedo parado
+[01:31:16] [Server thread/INFO]: Maximum spawn attempts reached. Skipping this alpha spawn
+[01:31:19] [Server thread/INFO]: <JeamByOne> y caimos a la lava
+[01:31:27] [Server thread/INFO]: <MrSGR22> no puedo sacarme varas del jeb
+[01:31:34] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_4836['Piglin'/108031, l='ServerLevel[world]', x=562.50, y=94.00, z=411.50]'
+[01:31:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[01:31:53] [Server thread/WARN]: Entity PokemonEntity['Salamence'/107038, l='ServerLevel[world]', x=449.75, y=37.00, z=674.78, removed=DISCARDED] wasn't found in section class_4076{x=28, y=2, z=42} (destroying due to DISCARDED)
+[01:32:38] [Server thread/INFO]: [MrSGR22: Set own game mode to Creative Mode]
+[01:33:25] [Server thread/INFO]: [Ball Stickers] Salamence (Slot 5) sent out
+[01:33:43] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_1590['Zombified Piglin'/108839, l='ServerLevel[world]', x=359.50, y=65.00, z=673.50]'
+[01:35:16] [Server thread/WARN]: Could not equip item '1 ball_stickers:dirty_seal' on spawned entity 'class_1590['Zombified Piglin'/109386, l='ServerLevel[world]', x=-91.50, y=86.00, z=-74.50]'
+[01:35:40] [Server thread/WARN]: Entity PokemonEntity['Salamence'/108790, l='ServerLevel[world]', x=526.71, y=99.00, z=411.91, removed=DISCARDED] wasn't found in section class_4076{x=32, y=6, z=25} (destroying due to DISCARDED)
+[01:35:53] [Server thread/INFO]: [Ball Stickers] Salamence (Slot 5) sent out
+[01:35:54] [Server thread/WARN]: Entity PokemonEntity['Salamence'/109548, l='ServerLevel[world]', x=529.35, y=97.00, z=427.65, removed=DISCARDED] wasn't found in section class_4076{x=33, y=6, z=26} (destroying due to DISCARDED)
+[01:35:55] [Server thread/INFO]: [Ball Stickers] Salamence (Slot 5) sent out
+[01:36:07] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.CustomPayload$Id.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:121) ~[RoughlyEnoughItems-16.0.799-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.0+c7469b2119-fc1807d9d9478146.jar:?]
+	at knot//MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:121) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:814) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:36:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:36:10] [Server thread/INFO]: rth<--[HERE]
+[01:36:51] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.CustomPayload$Id.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:121) ~[RoughlyEnoughItems-16.0.799-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.0+c7469b2119-fc1807d9d9478146.jar:?]
+	at knot//MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:121) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:814) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:36:52] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.CustomPayload$Id.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:121) ~[RoughlyEnoughItems-16.0.799-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.0+c7469b2119-fc1807d9d9478146.jar:?]
+	at knot//MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:121) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:814) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:36:52] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.CustomPayload$Id.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:121) ~[RoughlyEnoughItems-16.0.799-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.0+c7469b2119-fc1807d9d9478146.jar:?]
+	at knot//MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:121) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:814) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:36:53] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.CustomPayload$Id.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:121) ~[RoughlyEnoughItems-16.0.799-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.0+c7469b2119-fc1807d9d9478146.jar:?]
+	at knot//MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:121) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:814) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:36:53] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.CustomPayload$Id.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:121) ~[RoughlyEnoughItems-16.0.799-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.0+c7469b2119-fc1807d9d9478146.jar:?]
+	at knot//MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:121) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:814) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:36:53] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.CustomPayload$Id.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:121) ~[RoughlyEnoughItems-16.0.799-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.0+c7469b2119-fc1807d9d9478146.jar:?]
+	at knot//MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:121) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:814) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:36:53] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.CustomPayload$Id.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:121) ~[RoughlyEnoughItems-16.0.799-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.0+c7469b2119-fc1807d9d9478146.jar:?]
+	at knot//MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:121) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:814) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:36:53] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.CustomPayload$Id.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:121) ~[RoughlyEnoughItems-16.0.799-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.0+c7469b2119-fc1807d9d9478146.jar:?]
+	at knot//MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:121) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:814) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:36:53] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.CustomPayload$Id.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:121) ~[RoughlyEnoughItems-16.0.799-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.0+c7469b2119-fc1807d9d9478146.jar:?]
+	at knot//MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:121) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:814) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:36:54] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.CustomPayload$Id.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:121) ~[RoughlyEnoughItems-16.0.799-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.0+c7469b2119-fc1807d9d9478146.jar:?]
+	at knot//MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:145) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasks(MinecraftServer.java:810) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.mixinextras$bridge$method_18857$310(MinecraftServer.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.wrapOperation$ddf000$modernfix$managedBlock(MinecraftServer.java:2123) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:815) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:36:54] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.CustomPayload$Id.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:121) ~[RoughlyEnoughItems-16.0.799-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.0+c7469b2119-fc1807d9d9478146.jar:?]
+	at knot//MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:121) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:814) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:36:54] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.CustomPayload$Id.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:121) ~[RoughlyEnoughItems-16.0.799-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.0+c7469b2119-fc1807d9d9478146.jar:?]
+	at knot//MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:121) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:814) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:36:54] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.CustomPayload$Id.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:121) ~[RoughlyEnoughItems-16.0.799-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.0+c7469b2119-fc1807d9d9478146.jar:?]
+	at knot//MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:121) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:814) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:36:54] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.CustomPayload$Id.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:121) ~[RoughlyEnoughItems-16.0.799-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.0+c7469b2119-fc1807d9d9478146.jar:?]
+	at knot//MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:121) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:814) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:36:56] [Server thread/INFO]: <JeamByOne> nah tio que muerte mas injusta
+[01:37:01] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.CustomPayload$Id.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:121) ~[RoughlyEnoughItems-16.0.799-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.0+c7469b2119-fc1807d9d9478146.jar:?]
+	at knot//MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:121) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:814) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:37:01] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.CustomPayload$Id.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:121) ~[RoughlyEnoughItems-16.0.799-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.0+c7469b2119-fc1807d9d9478146.jar:?]
+	at knot//MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:121) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:814) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:37:01] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.CustomPayload$Id.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:121) ~[RoughlyEnoughItems-16.0.799-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.0+c7469b2119-fc1807d9d9478146.jar:?]
+	at knot//MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:121) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:814) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:37:01] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.CustomPayload$Id.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:121) ~[RoughlyEnoughItems-16.0.799-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.0+c7469b2119-fc1807d9d9478146.jar:?]
+	at knot//MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:121) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:814) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:37:01] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.CustomPayload$Id.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:121) ~[RoughlyEnoughItems-16.0.799-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.0+c7469b2119-fc1807d9d9478146.jar:?]
+	at knot//MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:145) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasks(MinecraftServer.java:810) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.mixinextras$bridge$method_18857$310(MinecraftServer.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.wrapOperation$ddf000$modernfix$managedBlock(MinecraftServer.java:2123) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:815) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:37:02] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.CustomPayload$Id.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:121) ~[RoughlyEnoughItems-16.0.799-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-13.0.8-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.0+c7469b2119-fc1807d9d9478146.jar:?]
+	at knot//MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:121) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:814) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:37:12] [Server thread/INFO]: [MrSGR22: Set own game mode to Survival Mode]
+[01:37:42] [Server thread/INFO]: [Ball Stickers] Metagross (Slot 3) sent out
+[01:38:45] [Server thread/WARN]: Entity PokemonEntity['Metagross'/110138, l='ServerLevel[world]', x=526.65, y=99.00, z=413.39, removed=DISCARDED] wasn't found in section class_4076{x=32, y=6, z=25} (destroying due to DISCARDED)
+[01:39:36] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[01:39:43] [Server thread/INFO]: [Ball Stickers] Larvesta (Slot 1) sent out
+[01:39:56] [Server thread/WARN]: Entity PokemonEntity['Larvesta'/111024, l='ServerLevel[world]', x=524.39, y=99.00, z=416.93, removed=DISCARDED] wasn't found in section class_4076{x=32, y=6, z=26} (destroying due to DISCARDED)
+[01:40:17] [Server thread/INFO]: <JeamByOne> bro
+[01:40:26] [Server thread/INFO]: <JeamByOne> su metagross tiene 4 asientos vamos en ese
+[01:40:29] [Server thread/WARN]: Entity PokemonEntity['Salamence'/109552, l='ServerLevel[world]', x=527.53, y=99.00, z=420.00, removed=DISCARDED] wasn't found in section class_4076{x=32, y=6, z=26} (destroying due to DISCARDED)
+[01:40:30] [Server thread/INFO]: [Ball Stickers] Metagross (Slot 3) sent out
+[01:40:48] [Server thread/INFO]: <JeamByOne> go
+[01:40:49] [Server thread/INFO]: <MrSGR22> esta bug
+[01:40:54] [Server thread/INFO]: <JeamByOne> f
+[01:41:02] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_1590['Zombified Piglin'/111281, l='ServerLevel[world]', x=511.50, y=40.00, z=275.50]'
+[01:41:02] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_1590['Zombified Piglin'/111281, l='ServerLevel[world]', x=511.50, y=40.00, z=275.50]'
+[01:41:08] [Server thread/INFO]: <MrSGR22> esta subido creo
+[01:41:12] [Server thread/INFO]: <JeamByOne> n
+[01:41:16] [Server thread/INFO]: <JeamByOne> n
+[01:41:18] [Server thread/INFO]: <JeamByOne> me cai
+[01:41:37] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[01:41:57] [Server thread/INFO]: [Ball Stickers] Flygon (Slot 5) sent out
+[01:42:05] [Server thread/WARN]: Entity PokemonEntity['Metagross'/111125, l='ServerLevel[world]', x=516.85, y=45.00, z=411.50, removed=DISCARDED] wasn't found in section class_4076{x=32, y=2, z=25} (destroying due to DISCARDED)
+[01:42:50] [Server thread/INFO]: [Ball Stickers] Metagross (Slot 3) sent out
+[01:43:24] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_1590['Zombified Piglin'/111977, l='ServerLevel[world]', x=407.50, y=66.00, z=741.50]'
+[01:43:32] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_1590['Zombified Piglin'/112044, l='ServerLevel[world]', x=301.50, y=52.00, z=500.50]'
+[01:43:43] [Server thread/INFO]: <JeamByOne> aqui esta blaine
+[01:43:45] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_1590['Zombified Piglin'/112277, l='ServerLevel[world]', x=185.50, y=87.00, z=394.50]'
+[01:43:47] [Server thread/INFO]: <JeamByOne> no lo viste?
+[01:43:47] [Server thread/INFO]: <MrSGR22> xd
+[01:43:51] [Server thread/INFO]: <MrSGR22> no
+[01:44:22] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_4836['Piglin'/112653, l='ServerLevel[world]', x=146.50, y=95.00, z=387.50]'
+[01:44:27] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_1590['Zombified Piglin'/112664, l='ServerLevel[world]', x=71.50, y=102.00, z=412.50]'
+[01:45:02] [Server thread/WARN]: Entity PokemonEntity['Metagross'/111683, l='ServerLevel[world]', x=58.82, y=50.00, z=341.83, removed=DISCARDED] wasn't found in section class_4076{x=3, y=3, z=21} (destroying due to DISCARDED)
+[01:45:05] [Server thread/WARN]: Could not equip item '1 ball_stickers:star_seal_a' on spawned entity 'class_4836['Piglin'/112834, l='ServerLevel[world]', x=406.50, y=67.00, z=377.50]'
+[01:45:05] [Server thread/WARN]: Entity PokemonEntity['Flygon'/111527, l='ServerLevel[world]', x=455.00, y=54.05, z=464.17, removed=DISCARDED] wasn't found in section class_4076{x=28, y=3, z=29} (destroying due to DISCARDED)
+[01:45:14] [Server thread/INFO]: <JeamByOne> blaine es tipo agua vdd?
+[01:45:15] [Server thread/INFO]: <JeamByOne> xdd
+[01:45:19] [Server thread/INFO]: <MrSGR22> xdd
+[01:45:24] [Server thread/INFO]: <MrSGR22> no, es tipo hielo
+[01:45:29] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_1590['Zombified Piglin'/112951, l='ServerLevel[world]', x=82.50, y=60.00, z=389.50]'
+[01:45:59] [Server thread/INFO]: <MrSGR22> se me perdio el portal
+[01:46:01] [Server thread/INFO]: [Ball Stickers] Metagross (Slot 3) sent out
+[01:46:11] [Server thread/INFO]: <JeamByOne> venga donde mi
+[01:46:13] [Server thread/INFO]: <JeamByOne> puse waystone
+[01:46:33] [Server thread/WARN]: Could not equip item '1 ball_stickers:heart_seal_a' on spawned entity 'class_4836['Piglin'/113462, l='ServerLevel[world]', x=460.50, y=97.00, z=374.50]'
+[01:47:03] [Server thread/WARN]: Entity PokemonEntity['Metagross'/113106, l='ServerLevel[world]', x=449.60, y=51.00, z=468.78, removed=DISCARDED] wasn't found in section class_4076{x=28, y=3, z=29} (destroying due to DISCARDED)
+[01:47:25] [Server thread/INFO]: <MrSGR22> suave
+[01:47:45] [Server thread/INFO]: [Ball Stickers] Metagross (Slot 3) sent out
+[01:47:48] [Server thread/WARN]: Entity PokemonEntity['Metagross'/113897, l='ServerLevel[world]', x=469.17, y=48.00, z=491.83, removed=DISCARDED] wasn't found in section class_4076{x=29, y=3, z=30} (destroying due to DISCARDED)
+[01:47:48] [Server thread/INFO]: [Ball Stickers] Metagross (Slot 3) sent out
+[01:48:12] [Server thread/INFO]: <JeamByOne> eso es un ceruledge?
+[01:48:16] [Server thread/WARN]: Entity PokemonEntity['Metagross'/113903, l='ServerLevel[world]', x=472.83, y=47.00, z=491.17, removed=DISCARDED] wasn't found in section class_4076{x=29, y=2, z=30} (destroying due to DISCARDED)
+[01:48:16] [Server thread/INFO]: [Ball Stickers] Gengar (Slot 2) sent out
+[01:48:26] [Server thread/INFO]: <MrSGR22> si
+[01:48:35] [Server thread/INFO]: <JeamByOne> ostia
+[01:49:23] [Server thread/WARN]: Entity PokemonEntity['Gengar'/113982, l='ServerLevel[world]', x=472.76, y=46.00, z=491.44, removed=KILLED] wasn't found in section class_4076{x=29, y=2, z=30} (destroying due to DISCARDED)
+[01:49:23] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 1) sent out
+[01:49:34] [Server thread/INFO]: <JeamByOne> q pena que esten bug las monturas de 2 asientos
+[01:49:39] [Server thread/INFO]: <MrSGR22> noooooo
+[01:49:40] [Server thread/INFO]: <JeamByOne> solo el maldito dragonite funciona
+[01:49:43] [Server thread/INFO]: <MrSGR22> lo maté
+[01:49:45] [Server thread/INFO]: MrSGR22 has made the advancement [Into Fire]
+[01:49:50] [Server thread/INFO]: <JeamByOne> pero aqui en el nether imposible manejar el dragonite
+[01:49:53] [Server thread/INFO]: <JeamByOne> xdd
+[01:49:55] [Server thread/WARN]: Entity PokemonEntity['Greninja'/114130, l='ServerLevel[world]', x=472.41, y=47.00, z=491.44, removed=DISCARDED] wasn't found in section class_4076{x=29, y=2, z=30} (destroying due to DISCARDED)
+[01:50:20] [Server thread/INFO]: <JeamByOne> bno afk me voy pa casa
+[01:51:58] [Server thread/INFO]: [MrSGR22: Teleported MrSGR22 to JeamByOne]
+[01:52:15] [Server thread/INFO]: Opened Remote PC for player: MrSGR22
+[01:54:02] [Server thread/INFO]: Opened Remote PC for player: MrSGR22
+[02:05:17] [Server thread/INFO]: Opened Remote PC for player: MrSGR22
+[02:11:18] [Server thread/INFO]: ¡Un Pokemon Alpha ha aparecido cerca de alguien!
+[02:16:58] [Server thread/INFO]: Opened Remote PC for player: MrSGR22
+[02:17:38] [Server thread/INFO]: <JeamByOne> bro yo ya no voy a jugar mas por hoy
+[02:17:43] [Server thread/INFO]: <JeamByOne> me duele la vista
+[02:17:50] [Server thread/INFO]: <MrSGR22> XD
+[02:17:51] [Server thread/INFO]: <JeamByOne> mejor voy a descansar{
+[02:18:03] [Server thread/INFO]: <JeamByOne> ahora como a las 10 y algo le cierro el server
+[02:18:06] [Server thread/INFO]: <JeamByOne> juegue 2 hrs mas
+[02:18:16] [Server thread/INFO]: <MrSGR22> ...
+[02:18:21] [Server thread/INFO]: <JeamByOne> im sorry
+[02:18:25] [Server thread/INFO]: <JeamByOne> pero es lo que hay
+[02:18:58] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[02:28:50] [Server thread/INFO]: <MrSGR22> xzdd
+[02:29:39] [Server thread/INFO]: Opened Remote PC for player: MrSGR22
+[02:30:32] [Server thread/INFO]: <JeamByOne> 16k de monedas en cofres
+[02:30:34] [Server thread/INFO]: <JeamByOne> lmao
+[02:30:50] [Server thread/INFO]: <MrSGR22> caramelos XL regalados
+[02:30:56] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[02:31:28] [Server thread/INFO]: Opened Remote PC for player: MrSGR22
+[02:31:32] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[02:32:07] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 1) sent out
+[02:33:09] [Server thread/INFO]: [BattlePositions][POKEMON] Battle 4985b2d4-3ec9-495a-8079-6c37c4078eae pre-start teleport p1a 4a30d1b0-b2e4-4bfe-8769-fbcd3c47c445 (Greninja) (-201.04, 64.00, -141.32) -> (-192.50, 64.00, -144.50) (success=true)
+[02:33:21] [Server thread/INFO]: <MrSGR22> ash ;o
+[02:33:31] [Server thread/WARN]: Entity PokemonEntity['Greninja'/122537, l='ServerLevel[world]', x=-196.19, y=64.00, z=-144.51, removed=DISCARDED] wasn't found in section class_4076{x=-13, y=4, z=-10} (destroying due to DISCARDED)
+[02:34:28] [Server thread/INFO]: [Ball Stickers] Flygon (Slot 5) sent out
+[02:34:30] [Server thread/INFO]: [Ball Stickers] Gimmighoul (Slot 1) sent out
+[02:34:31] [Server thread/WARN]: Entity PokemonEntity['Flygon'/122941, l='ServerLevel[world]', x=-201.77, y=64.00, z=-155.70, removed=DISCARDED] wasn't found in section class_4076{x=-13, y=4, z=-10} (destroying due to DISCARDED)
+[02:34:31] [Server thread/INFO]: [Ball Stickers] Gimmighoul (Slot 2) sent out
+[02:34:34] [Server thread/WARN]: Entity PokemonEntity['Gimmighoul'/122944, l='ServerLevel[world]', x=-201.74, y=64.00, z=-155.88, removed=DISCARDED] wasn't found in section class_4076{x=-13, y=4, z=-10} (destroying due to DISCARDED)
+[02:34:45] [Server thread/INFO]: [Ball Stickers] Gimmighoul (Slot 2) sent out
+[02:34:49] [Server thread/WARN]: Entity PokemonEntity['Gimmighoul'/122943, l='ServerLevel[world]', x=-201.56, y=64.00, z=-156.04, removed=DISCARDED] wasn't found in section class_4076{x=-13, y=4, z=-10} (destroying due to DISCARDED)
+[02:35:00] [Server thread/INFO]: [Ball Stickers] Gimmighoul (Slot 1) sent out
+[02:35:02] [Server thread/WARN]: Entity PokemonEntity['Gimmighoul'/123017, l='ServerLevel[world]', x=-202.70, y=64.00, z=-154.96, removed=DISCARDED] wasn't found in section class_4076{x=-13, y=4, z=-10} (destroying due to DISCARDED)
+[02:35:03] [Server thread/WARN]: Entity PokemonEntity['Gimmighoul'/122979, l='ServerLevel[world]', x=-201.96, y=64.00, z=-155.76, removed=DISCARDED] wasn't found in section class_4076{x=-13, y=4, z=-10} (destroying due to DISCARDED)
+[02:35:12] [Server thread/INFO]: Opened Remote PC for player: JeamByOne
+[02:35:47] [Server thread/INFO]: <JeamByOne> ketchup
+[02:35:48] [Server thread/INFO]: <JeamByOne> XD
+[02:35:52] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 1) sent out
+[02:36:07] [Server thread/INFO]: <MrSGR22> tiene 6 pokes xd
+[02:36:10] [Server thread/INFO]: <MrSGR22> esta roto
+[02:36:31] [Server thread/INFO]: [Ball Stickers] Dragapult (Slot 3) sent out
+[02:37:37] [Server thread/WARN]: Entity PokemonEntity['Dragapult'/123291, l='ServerLevel[world]', x=-254.50, y=70.00, z=-183.67, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=4, z=-12} (destroying due to DISCARDED)
+[02:37:44] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 4) sent out
+[02:38:13] [Server thread/WARN]: Entity PokemonEntity['Greninja'/123168, l='ServerLevel[world]', x=-249.19, y=63.00, z=-163.42, removed=DISCARDED] wasn't found in section class_4076{x=-16, y=3, z=-11} (destroying due to DISCARDED)
+[02:38:23] [Server thread/INFO]: <MrSGR22> POLLA
+[02:38:31] [Server thread/INFO]: <JeamByOne> traigame escaleras de mano porfa
+[02:38:51] [Server thread/WARN]: Entity PokemonEntity['Greninja'/123554, l='ServerLevel[world]', x=-198.39, y=55.00, z=-158.45, removed=DISCARDED] wasn't found in section class_4076{x=-13, y=3, z=-10} (destroying due to DISCARDED)
+[02:39:40] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 1) sent out
+[02:40:03] [Server thread/INFO]: <JeamByOne> :LookUp:
+[02:40:28] [Server thread/WARN]: Entity PokemonEntity['Greninja'/124130, l='ServerLevel[world]', x=-203.29, y=64.00, z=-157.97, removed=DISCARDED] wasn't found in section class_4076{x=-13, y=4, z=-10} (destroying due to DISCARDED)
+[02:40:29] [Server thread/INFO]: [Ball Stickers] Goodra (Slot 5) sent out
+[02:40:56] [Server thread/WARN]: Entity PokemonEntity['Goodra'/124286, l='ServerLevel[world]', x=-218.89, y=64.00, z=-169.33, removed=DISCARDED] wasn't found in section class_4076{x=-14, y=4, z=-11} (destroying due to DISCARDED)
+[02:42:29] [Server thread/INFO]: <JeamByOne> bno quizas en un rato regreso si se me quita el dolor
+[02:42:31] [Server thread/INFO]: <JeamByOne> sino pues
+[02:42:32] [Server thread/INFO]: <JeamByOne> adio
+[02:42:36] [Server thread/INFO]: <MrSGR22> ok
+[02:42:38] [Netty Epoll Server IO #2/INFO]: Player JeamByOne disconnected, saving their progress data
+[02:42:38] [Netty Epoll Server IO #2/INFO]: Saved shrine progress for player JeamByOne in world world_852620163
+[02:42:38] [Server thread/INFO]: JeamByOne lost connection: Disconnected
+[02:42:38] [Server thread/INFO]: JeamByOne left the game
+[02:42:38] [Server thread/INFO]: Unregistered trainer player: JeamByOne
+[02:42:50] [Server thread/INFO]: <MrSGR22> :(
+[02:44:12] [Server thread/INFO]: Opened Remote PC for player: MrSGR22
+[02:44:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:44:53] [Server thread/INFO]: tuigku<--[HERE]
+[02:47:02] [Server thread/INFO]: [Ball Stickers] Metagross (Slot 3) sent out
+[02:47:12] [Server thread/WARN]: Entity PokemonEntity['Metagross'/125410, l='ServerLevel[world]', x=-269.45, y=63.00, z=-166.02, removed=DISCARDED] wasn't found in section class_4076{x=-17, y=3, z=-11} (destroying due to DISCARDED)
+[02:47:12] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 1) sent out
+[02:47:20] [Server thread/WARN]: Entity PokemonEntity['Greninja'/125442, l='ServerLevel[world]', x=-269.51, y=63.00, z=-166.20, removed=DISCARDED] wasn't found in section class_4076{x=-17, y=3, z=-11} (destroying due to DISCARDED)
+[02:51:18] [Server thread/INFO]: Maximum spawn attempts reached. Skipping this alpha spawn
+[02:55:20] [Server thread/INFO]: Opened Remote PC for player: MrSGR22
+[03:01:24] [Server thread/INFO]: [Ball Stickers] Garchomp (Slot 4) sent out
+[03:03:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[03:04:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10251ms or 205 ticks behind
+[03:04:06] [Server thread/WARN]: MrSGR22 moved too quickly! 110.91870555917558,0.6763417193293435,67.20974596257035
+[03:04:09] [Server thread/INFO]: MrSGR22 fell from a high place
+[03:04:09] [Server thread/INFO]: [MrSGR22: [LD] You died at 783, 65, -33, in minecraft:overworld.]
+[03:04:14] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:04:14] [Server thread/INFO]: yk<--[HERE]
+[03:04:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
+[03:04:18] [Server thread/INFO]: [MrSGR22: Teleported MrSGR22 to 783.500000, 64.500000, -32.500000]
+[03:05:20] [Server thread/INFO]: [Ball Stickers] Garchomp (Slot 4) sent out
+[03:05:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[03:05:58] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 8.924508665318399,1.0656078234314919,5.885284168812234
+[03:05:58] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 9.837451173472118,1.1755061596632004,6.451435567410272
+[03:05:58] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 10.743644900517893,1.2847265005111694,7.007986518659209
+[03:05:58] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 11.66158381182322,1.3955094814300537,7.565827076305993
+[03:05:58] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 12.572401476904815,1.5055502951145172,8.114615633165101
+[03:06:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11256ms or 225 ticks behind
+[03:06:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7342ms or 146 ticks behind
+[03:06:50] [Server thread/WARN]: Entity PokemonEntity['Garchomp'/130581, l='ServerLevel[world]', x=2005.29, y=100.00, z=716.55, removed=DISCARDED] wasn't found in section class_4076{x=125, y=6, z=44} (destroying due to DISCARDED)
+[03:07:07] [Server thread/WARN]: MrSGR22 moved too quickly! 7.155147718794069,-4.0,-5.967295736644473
+[03:07:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14111ms or 282 ticks behind
+[03:08:44] [Server thread/INFO]: [Ball Stickers] Gengar (Slot 2) sent out
+[03:09:04] [Server thread/WARN]: Entity PokemonEntity['Gengar'/133209, l='ServerLevel[world]', x=1973.38, y=96.00, z=641.97, removed=DISCARDED] wasn't found in section class_4076{x=123, y=5, z=40} (destroying due to DISCARDED)
+[03:09:11] [Server thread/INFO]: [Ball Stickers] Gengar (Slot 2) sent out
+[03:09:45] [Server thread/WARN]: Entity PokemonEntity['Gengar'/133297, l='ServerLevel[world]', x=1981.97, y=96.00, z=646.05, removed=DISCARDED] wasn't found in section class_4076{x=123, y=6, z=40} (destroying due to DISCARDED)
+[03:11:55] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 1) sent out
+[03:12:22] [Server thread/WARN]: Entity PokemonEntity['Greninja'/133796, l='ServerLevel[world]', x=2009.98, y=90.00, z=717.70, removed=KILLED] wasn't found in section class_4076{x=125, y=5, z=44} (destroying due to DISCARDED)
+[03:12:28] [Server thread/INFO]: [Ball Stickers] Gengar (Slot 2) sent out
+[03:12:47] [Server thread/WARN]: Entity PokemonEntity['Gengar'/133863, l='ServerLevel[world]', x=2010.10, y=90.00, z=718.03, removed=KILLED] wasn't found in section class_4076{x=125, y=5, z=44} (destroying due to DISCARDED)
+[03:12:54] [Server thread/INFO]: [Ball Stickers] Metagross (Slot 3) sent out
+[03:13:51] [Server thread/WARN]: Entity PokemonEntity['Metagross'/133917, l='ServerLevel[world]', x=2012.50, y=90.00, z=719.50, removed=KILLED] wasn't found in section class_4076{x=125, y=5, z=44} (destroying due to DISCARDED)
+[03:13:58] [Server thread/INFO]: [Ball Stickers] Goodra (Slot 5) sent out
+[03:14:17] [Server thread/WARN]: Entity PokemonEntity['Goodra'/134033, l='ServerLevel[world]', x=2012.50, y=90.00, z=719.50, removed=KILLED] wasn't found in section class_4076{x=125, y=5, z=44} (destroying due to DISCARDED)
+[03:15:11] [Server thread/INFO]: [Ball Stickers] Lucario (Slot 6) sent out
+[03:15:33] [Server thread/WARN]: Entity PokemonEntity['Lucario'/134181, l='ServerLevel[world]', x=2009.88, y=90.00, z=717.38, removed=DISCARDED] wasn't found in section class_4076{x=125, y=5, z=44} (destroying due to DISCARDED)
+[03:15:33] [Server thread/INFO]: [Ball Stickers] Garchomp (Slot 4) sent out
+[03:15:53] [Server thread/WARN]: Entity PokemonEntity['Garchomp'/134217, l='ServerLevel[world]', x=2011.50, y=90.00, z=718.50, removed=DISCARDED] wasn't found in section class_4076{x=125, y=5, z=44} (destroying due to DISCARDED)
+[03:15:53] [Server thread/INFO]: [Ball Stickers] Lucario (Slot 6) sent out
+[03:16:17] [Server thread/INFO]: MrSGR22 has made the advancement [advancements.cobbleverse.kanto.defeat_sabrina]
+[03:16:35] [Server thread/WARN]: Entity PokemonEntity['Lucario'/134262, l='ServerLevel[world]', x=2009.85, y=90.00, z=717.38, removed=DISCARDED] wasn't found in section class_4076{x=125, y=5, z=44} (destroying due to DISCARDED)
+[03:19:39] [Server thread/INFO]: [Ball Stickers] Greninja (Slot 1) sent out
+[03:20:06] [Server thread/WARN]: Entity PokemonEntity['Greninja'/135159, l='ServerLevel[world]', x=-332.01, y=60.33, z=-191.44, removed=DISCARDED] wasn't found in section class_4076{x=-21, y=3, z=-12} (destroying due to DISCARDED)
+[03:21:54] [Server thread/INFO]: [Ball Stickers] Garchomp (Slot 4) sent out
+[03:23:22] [Server thread/WARN]: Entity PokemonEntity['Garchomp'/135847, l='ServerLevel[world]', x=-1425.13, y=61.77, z=-169.54, removed=DISCARDED] wasn't found in section class_4076{x=-90, y=3, z=-11} (destroying due to DISCARDED)
+[03:25:50] [Server thread/INFO]: [Ball Stickers] Garchomp (Slot 4) sent out
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 10.17144967097488,-2.85512159432821,-1.2313181591640614
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 10.94574319370355,-2.85512159432821,-1.3254618962344011
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 11.660475357741916,-2.85512159432821,-1.4123637686533073
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 12.315646163090037,-2.85512159432821,-1.4920237764207798
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 12.911255609747911,-2.85512159432821,-1.5644419195367902
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 13.44730369771554,-2.85512159432821,-1.629618198001367
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 13.923790426992866,-2.85512159432821,-1.6875526118145103
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 14.340715797579946,-2.85512159432821,-1.73824516097622
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 14.69807980947678,-2.85512159432821,-1.7816958454864675
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 14.995882462683312,-2.85512159432821,-1.8179046653452815
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 15.234123757199598,-2.85512159432821,-1.8468716205526619
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 15.38981641951898,-2.85512159432821,-1.846080490460622
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 15.485161582166882,-2.85512159432821,-1.8314416399032893
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 15.568090395414458,-2.85512159432821,-1.8050027846810792
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 15.637459282235511,-2.85512159432821,-1.7701753889266456
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 15.718207352378727,-2.85512159432821,-1.714292758782534
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 15.78992773124503,-2.85512159432821,-1.661966570764406
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 15.854038546007246,-2.85512159432821,-1.6151922145734545
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 15.934774077251603,-2.85512159432821,-1.5562886971295313
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 16.007900044391874,-2.85512159432821,-1.5029370115127563
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 16.073416447428087,-2.85512159432821,-1.4551371577231578
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 16.15555756694644,-2.85512159432821,-1.3952081426805876
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 16.230089122360738,-2.85512159432821,-1.3408309594651655
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 16.297011113670948,-2.85512159432821,-1.29200560807692
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 16.35632354087707,-2.85512159432821,-1.2487320885158226
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 16.432260684565364,-2.85512159432821,-1.1933294077017536
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 16.49499844996842,-2.85512159432821,-1.1366045615833116
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 16.54334162768413,-2.85512159432821,-1.079054585069514
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 16.593411443154935,-2.85512159432821,-0.9974512549304961
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 16.62484154873468,-2.85512159432821,-0.9170556021843197
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 16.630989946882607,-2.85512159432821,-0.8809859952526153
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 16.62861181432558,-2.85512159432821,-0.8238650154030438
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 16.609633235551883,-2.85512159432821,-0.7484664224882351
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 16.567838852411597,-2.85512159432821,-0.6594601904864703
+[03:27:09] [Server thread/WARN]: Garchomp (vehicle of MrSGR22) moved too quickly! 16.516316446240467,-2.85512159432821,-0.5869997752310496
+[03:27:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2258ms or 45 ticks behind
+[03:27:19] [Server thread/WARN]: Entity PokemonEntity['Garchomp'/138579, l='ServerLevel[world]', x=-269.46, y=64.00, z=-186.01, removed=DISCARDED] wasn't found in section class_4076{x=-17, y=4, z=-12} (destroying due to DISCARDED)
+[03:32:10] [Server thread/INFO]: ¡Un Pokemon Alpha ha aparecido cerca de alguien!
+[04:06:32] [Server thread/INFO]: Opened Remote PC for player: MrSGR22
+[04:10:25] [Server thread/INFO]: Stopping the server
+[04:10:25] [Server thread/INFO]: [Ball Stickers] Saved 2 Pokemon sticker configs to persistent storage
+[04:10:25] [Server thread/INFO]: Server stopping, saving all player progress data
+[04:10:25] [Server thread/INFO]: Stopping server
+[04:10:25] [Server thread/INFO]: Saving players
+[04:10:25] [Netty Epoll Server IO #6/INFO]: Player MrSGR22 disconnected, saving their progress data
+[04:10:25] [Netty Epoll Server IO #6/INFO]: Saved shrine progress for player MrSGR22 in world world_852620163
+[04:10:25] [Server thread/INFO]: MrSGR22 lost connection: Server closed
+[04:10:25] [Server thread/INFO]: MrSGR22 left the game
+[04:10:25] [Server thread/INFO]: Unregistered trainer player: MrSGR22
+[04:10:25] [Server thread/INFO]: Saving worlds
+[04:10:25] [Server thread/INFO]: ServerLevel[world]/minecraft:overworld: waiting for 2504 chunks to unload
+[04:10:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:10:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/cobblemonraiddens:raid_dimension
+[04:10:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/legendarymonuments:distortion_world
+[04:10:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/lumymon:origin
+[04:10:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/lumymon:nightmare
+[04:10:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:10:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:10:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:10:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (raid_dimension): All chunks are saved
+[04:10:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (distortion_world): All chunks are saved
+[04:10:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (origin): All chunks are saved
+[04:10:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (nightmare): All chunks are saved
+[04:10:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:10:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:10:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:10:26] [C2ME Storage #3/INFO]: Storage thread Thread[#75,C2ME Storage #3,5,main] stopped
+[04:10:27] [C2ME Storage #2/INFO]: Storage thread Thread[#74,C2ME Storage #2,5,main] stopped
+[04:10:27] [C2ME Storage #1/INFO]: Storage thread Thread[#73,C2ME Storage #1,5,main] stopped
+[04:10:27] [C2ME Storage #6/INFO]: Storage thread Thread[#78,C2ME Storage #6,5,main] stopped
+[04:10:27] [C2ME Storage #5/INFO]: Storage thread Thread[#77,C2ME Storage #5,5,main] stopped
+[04:10:27] [C2ME Storage #4/INFO]: Storage thread Thread[#76,C2ME Storage #4,5,main] stopped
+[04:10:27] [C2ME Storage #9/INFO]: Storage thread Thread[#81,C2ME Storage #9,5,main] stopped
+[04:10:27] [C2ME Storage #8/INFO]: Storage thread Thread[#80,C2ME Storage #8,5,main] stopped
+[04:10:27] [C2ME Storage #7/INFO]: Storage thread Thread[#79,C2ME Storage #7,5,main] stopped
+[04:10:27] [C2ME Storage #12/INFO]: Storage thread Thread[#84,C2ME Storage #12,5,main] stopped
+[04:10:27] [C2ME Storage #11/INFO]: Storage thread Thread[#83,C2ME Storage #11,5,main] stopped
+[04:10:27] [C2ME Storage #10/INFO]: Storage thread Thread[#82,C2ME Storage #10,5,main] stopped
+[04:10:27] [C2ME Storage #15/INFO]: Storage thread Thread[#87,C2ME Storage #15,5,main] stopped
+[04:10:27] [C2ME Storage #14/INFO]: Storage thread Thread[#86,C2ME Storage #14,5,main] stopped
+[04:10:27] [C2ME Storage #13/INFO]: Storage thread Thread[#85,C2ME Storage #13,5,main] stopped
+[04:10:27] [C2ME Storage #18/INFO]: Storage thread Thread[#90,C2ME Storage #18,5,main] stopped
+[04:10:27] [C2ME Storage #17/INFO]: Storage thread Thread[#89,C2ME Storage #17,5,main] stopped
+[04:10:27] [C2ME Storage #16/INFO]: Storage thread Thread[#88,C2ME Storage #16,5,main] stopped
+[04:10:27] [C2ME Storage #21/INFO]: Storage thread Thread[#93,C2ME Storage #21,5,main] stopped
+[04:10:27] [C2ME Storage #20/INFO]: Storage thread Thread[#92,C2ME Storage #20,5,main] stopped
+[04:10:27] [C2ME Storage #19/INFO]: Storage thread Thread[#91,C2ME Storage #19,5,main] stopped
+[04:10:28] [Server thread/INFO]: Discarded config watch service
+[04:10:28] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[04:10:28] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
+[04:10:28] [Server thread/INFO]: Dispatching unloading event for config iteminteractions-server.toml
+[04:10:28] [Server thread/INFO]: Dispatching unloading event for config pickupnotifier/pickupnotifier-server.toml
